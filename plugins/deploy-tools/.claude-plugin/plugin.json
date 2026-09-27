@@ -1,0 +1,6 @@
+{
+  "name": "deploy-tools",
+  "version": "1.0.0",
+  "description": "Commands to deploy the treasure game to GitHub Pages and Vercel",
+  "author": { "name": "Peiwen", "email": "peiwen20@gmail.com" }
+}
