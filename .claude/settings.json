@@ -1,5 +1,13 @@
 {
+  "extraKnownMarketplaces": {
+    "treasure-game-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "PWHCH/cc1-svuncle-plugins-003"
+      }
+    }
+  },
   "enabledPlugins": {
-    "deploy-plugin@svuncle-plugins-003": true
+    "deploy-tools@treasure-game-marketplace": true
   }
 }
